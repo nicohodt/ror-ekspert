@@ -47,14 +47,14 @@ const Gallery: React.FC = () => {
       title: 'Nytt badekar',
       description: 'Demontering av gammelt og installasjon av nytt badekar med moderne vannarmatur.',
       category: 'bad',
-      image: 'https://images.pexels.com/photos/6588592/pexels-photo-6588592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/1457847/pexels-photo-1457847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     },
     {
       id: 6,
       title: 'Rørfornying',
       description: 'Fornying av gamle avløpsrør ved bruk av strømpeteknikk i leilighetsbygg.',
       category: 'reparasjon',
-      image: 'https://images.pexels.com/photos/2253900/pexels-photo-2253900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/6419128/pexels-photo-6419128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     },
   ];
 
